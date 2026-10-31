@@ -1,0 +1,53 @@
+{
+  "accounts": [
+    {
+      "name": "Account 1",
+      "session_id": "PASTE_ACCOUNT_1_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 2",
+      "session_id": "PASTE_ACCOUNT_2_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 3",
+      "session_id": "PASTE_ACCOUNT_3_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 4",
+      "session_id": "PASTE_ACCOUNT_4_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 5",
+      "session_id": "PASTE_ACCOUNT_5_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 6",
+      "session_id": "PASTE_ACCOUNT_6_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    },
+    {
+      "name": "Account 7",
+      "session_id": "PASTE_ACCOUNT_7_PINTEREST_SESS_COOKIE_HERE",
+      "board_name": ""
+    }
+  ],
+  "post_data": {
+    "image_path": "C:/hk/Pinterest automation/sample.jpg",
+    "title": "Amazing DIY Home Decor Ideas",
+    "description": "Discover creative and budget-friendly ideas to transform your living room into a cozy haven.",
+    "hashtags": "#homedecor #diy #interiordesign #livingroom #aesthetic",
+    "destination_link": "https://example.com/diy-home-decor"
+  },
+  "settings": {
+    "headless": false,
+    "delay_between_accounts_seconds": 30,
+    "random_delay_jitter": 15,
+    "alter_image_hash": true,
+    "save_debug_screenshots": true
+  }
+}
